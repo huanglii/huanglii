@@ -29,6 +29,6 @@ I am a passionate WebGIS developer with a keen interest in geospatial data, spat
 
 ## 📫 Connect with Me
 
-[![Personal Website](https://img.shields.io/badge/-Personal%20Website-05122A?style=flat&logo=google-chrome)](https://www,naivemap.com)
+[![Personal Website](https://img.shields.io/badge/-Personal%20Website-05122A?style=flat&logo=google-chrome)](https://www.naivemap.com)
 
 Thank you for visiting my profile! Have a great day! 😊
