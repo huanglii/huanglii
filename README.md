@@ -4,7 +4,7 @@ I am a passionate WebGIS developer with a keen interest in geospatial data, spat
 
 ## 🚀 About Me
 
-- 🌱 I’m currently working on rendering meteorological data using WebGL.
+- 🌱 I'm currently working on WebGIS development and geospatial data visualization.
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/huanglii).
 - 💬 Ask me about WebGIS, geospatial data, and any tech-related topics.
 - 📫 How to reach me: [naivemap@163.com](mailto:naivemap@163.com)
@@ -16,6 +16,7 @@ I am a passionate WebGIS developer with a keen interest in geospatial data, spat
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) 
 ![WebGL](https://img.shields.io/badge/-WebGL-05122A?style=flat&logo=webgl) 
+![Mapbox GL JS](https://img.shields.io/badge/-Mapbox%20GL%20JS-05122A?style=flat&logo=mapbox) 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) 
